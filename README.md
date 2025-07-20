@@ -1,2 +1,2 @@
-# wa-chatgpt-bot
+# gagal
 WA Bot + ChatGPT API
